@@ -184,8 +184,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Sujal1804**
-- GitHub: [@Sujal1804](https://github.com/Sujal1804)
+Tejas Mukkawar.
 
 ## 🙏 Acknowledgments
 
@@ -200,4 +199,4 @@ If you have any questions or need support, please open an issue on GitHub or con
 
 ---
 
-**Made with ❤️ by Sujal1804** 
+** Made with ❤️ by Tejas ** 
